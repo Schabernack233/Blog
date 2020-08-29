@@ -5,3 +5,10 @@
 ** 律法剧
 *** study
 *** macro
+** #+BEGIN_SRC clojure
+  (println "Hello world!")
+#+END_SRC
+** #+BEGIN_QUOTE
+test
+#+END_QUOTE
+**
